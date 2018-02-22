@@ -1,0 +1,204 @@
+body
+{
+  background-color:  #09859d; 
+  max-width: 850px;
+  margin: auto;
+
+}
+p 
+{
+  font: 14pt sans-serif;
+  line-height: 1.5;
+}
+
+li 
+{
+  font: 14pt sans-serif;
+  line-height: 1.5;
+}
+
+span
+{
+  font-weight: bold;
+}
+a
+{
+  color: blue;
+}
+
+.white 
+{
+  color: white;
+}
+
+h2{
+  text-align: center;
+}
+
+.text_footer 
+{
+  color: #ffffff;
+  text-align: center;
+  font: 12pt sans-serif;
+  margin-bottom: 20px;
+}
+
+.text_footer_2 
+{
+  color: #ffffff;
+  text-align: center;
+  font: 12pt sans-serif;
+  margin-bottom: 20px;
+}
+
+.img_block_1
+{
+  width: 300px;
+  
+}
+
+.img_block_2
+{
+  width: 40px;
+}
+
+.fullwrap
+{
+  width: 850px;
+  
+  background: #ffffff;
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+
+.header 
+{
+  width: 780px;
+  height: 140px;
+  background: #ffffff;
+  margin-top: 0px;
+  margin: 18px;
+  margin-top: 0px;
+  float: left;
+}
+
+.text_1 
+{ 
+  color: black;
+  width: 650px;
+  
+  background: #ffffff;
+  margin-left: 100px;
+  margin-right: 100px;
+  float: left;
+}
+
+
+.text_2 
+{
+  color: black;
+  width: 630px;
+  
+  background: #ffffff;
+  margin-left: 100px;
+  margin-right: 100px;
+  float: left;
+}
+
+.clear 
+{
+  clear: both;
+}
+
+.block_1
+ {
+  color: black;
+  width: 650px;
+  height: 450px;
+  background: #ffffff;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 20px;
+ 
+  float: left;
+}
+
+.block1_left
+ {
+  width: 300px;
+  height: 470px;
+  background: #ffffff;
+  float: left;
+}
+
+.block1_right 
+{
+  width: 300px;
+  height: 470px;
+  background: #ffffff;
+  float: right;
+}
+
+
+.block_button_3
+{
+  color: black;
+  width: 670px;
+  height: 70px;
+  background: #ffffff;
+  margin-left: 100px;
+  margin-right: 100px;
+  float: left;
+}
+
+.Button_1 
+{
+  background-color: #f04736;
+  border-radius:10px;
+  border:0px solid #cf5b4e;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:20px;
+  font-weight:bold;
+  padding:17px 92px;
+  margin-top: 20px;
+}
+
+.Button_2 
+{
+  background-color: #f04736;
+  border-radius:10px;
+  border:0px solid #cf5b4e;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:20px;
+  font-weight:bold;
+  padding:17px 52px;
+}
+
+.Button_3 
+{
+  background-color: #f04736;
+  border-radius:10px;
+  border:0px solid #cf5b4e;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:20px;
+  font-weight:bold;
+  padding:17px 230px;
+  
+}
+
+.footer 
+{
+  width: 780px;
+  height: 230px;
+  background: #09859d;
+  margin: 35px; 
+  float: left;
+}
+
+.text_center
+{
+  text-align: center;
+}
